@@ -1,4 +1,4 @@
-update=2018/2/22 19:26:10
+update=2018/2/23 16:41:34
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,7 +25,7 @@ version=1
 NetIExt=net
 [eeschema]
 version=1
-LibDir=
+LibDir=../DualUSBHub
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -59,5 +59,7 @@ LibName29=opto
 LibName30=atmel
 LibName31=contrib
 LibName32=valves
+LibName33=ma8601
+LibName34=ch440g
 [general]
 version=1
