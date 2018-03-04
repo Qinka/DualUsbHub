@@ -1,4 +1,4 @@
-update=2018/3/4 9:21:30
+update=2018/3/4 9:28:02
 version=1
 last_client=kicad
 [pcbnew]
@@ -29,8 +29,8 @@ version=1
 version=1
 LibDir=../lib
 [eeschema/libraries]
-LibName1=ch440g
-LibName2=ma8601
+LibName1=A:/DualUsbHub/lib/ch440g
+LibName2=A:/DualUsbHub/lib/ma8601
 LibName3=power
 LibName4=device
 LibName5=switches

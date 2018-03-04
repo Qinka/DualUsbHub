@@ -1,4 +1,6 @@
 EESchema Schematic File Version 2
+LIBS:ch440g
+LIBS:ma8601
 LIBS:power
 LIBS:device
 LIBS:switches
@@ -31,8 +33,6 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:ma8601
-LIBS:ch440g
 LIBS:DualUSBHub-cache
 EELAYER 25 0
 EELAYER END
